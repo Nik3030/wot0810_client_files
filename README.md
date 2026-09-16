@@ -30,6 +30,7 @@ sync.bat restore
 | `res/scripts/common/debug_utils.pyc`, `client_hooks.pyc` | точка входа правок |
 | `res/scripts/common/marker_matrix.pyc` | маркер союзника не замирает за холмом |
 | `res/scripts/common/sniper_stabilizer.pyc` | полная стабилизация прицела, динамическая камера выключена |
+| `res/scripts/common/handbrake.pyc` | пробел — удерживаемый тормоз вместо остановки до выстрела |
 | `res/gui/flash/settingsWindow.swf`, `res/gui/scaleform/SettingsDialog.swf` | в настройках нет галочек камеры и стабилизации |
 | `res/gui/flash/techtree/*.xml` | премиум-техника отдельным блоком в дереве |
 | `paths.xml` | строка `./res` поднимается выше пакетов |
