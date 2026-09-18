@@ -1,5 +1,5 @@
 # wot0810: правки клиента. Строка: sha256 размер путь от корня клиента.
-version 20260916-0826
+version 20260918-1652
 354d0af1b56c22bedab3c9bae0d4937c7c7afeca3c142a3d025bbaed407efccf 3822901 res/gui/flash/settingsWindow.swf
 8f8f0eaa27383331c0aa4e0beb51ae2eb554d6143e40edfd7526c466f533f3c4 2988 res/gui/flash/techtree/china-tree.xml
 ea438a760991ded7fefb1ebbb1a101471cd1eb003a7a5df843baf6e9092653a4 5136 res/gui/flash/techtree/france-tree.xml
@@ -9,6 +9,7 @@ ea438a760991ded7fefb1ebbb1a101471cd1eb003a7a5df843baf6e9092653a4 5136 res/gui/fl
 42f7304c140da962e543f292cc34b13952959adaa6bd41949a62636214f44fea 6884 res/gui/flash/techtree/uk-tree.xml
 212cdac51be8c14597da36247a02433b940d66d61c8ee792f6b6991d517534b9 7364 res/gui/flash/techtree/usa-tree.xml
 317e446b9b349c3e28245b2cd6af20dd21f3f258876ff63592102890111a3b81 9036 res/gui/flash/techtree/ussr-tree.xml
+0ee2a04e85c909fa4268c2321893855444b655d847547e6bc39c7a6bc111f508 2340 res/gui/gui_settings.xml
 db56e957f0d0c071b77ce19636af8b754533e5ee6bf2315e9e6e17865eb11095 3296069 res/gui/scaleform/SettingsDialog.swf
 df4f3777f85b082f0a8511e14ccffa25a8c4fb8207e5a5b876902a91daa937e4 451 res/loginapp_wot.pubkey
 2239663118b77a750df02af8553eddc6bf8c7122cb63489a21e3c7147339d835 1825 res/scripts/common/client_hooks.pyc

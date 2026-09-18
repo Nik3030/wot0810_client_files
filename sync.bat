@@ -28,7 +28,7 @@ $ErrorActionPreference = 'Stop'
 $ProgressPreference = 'SilentlyContinue'
 [Console]::OutputEncoding = [Text.Encoding]::UTF8
 
-# Подставляет ./run-server.sh client-release: корень репозитория раздачи в
+# Подставляет ./wot.sh client-release: корень репозитория раздачи в
 # raw-виде и имя сервера из scripts_config.xml.
 $Repo = 'https://raw.githubusercontent.com/Nik3030/wot0810_client_files/main'
 $Server = 'CLASSIC_CORE'
